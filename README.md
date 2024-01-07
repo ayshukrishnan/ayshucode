@@ -7,19 +7,3 @@ sdf
 
 int x = 0; 
 
-
-function add () 
-{
-sdfsdfsd
-sfdsf    
-
-}
-
-function subtract() {
-
-    dfsgdfg
-    dfg
-    dfg
-
-}
-
